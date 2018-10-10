@@ -3,7 +3,7 @@ public class myGitTest {
 
 	public static void main(String[] args) 
 	{
-		System.out.println("Serafima says Hello Git Test");
+		System.out.println("United we stand, divided we fall");
 
 
 	}
